@@ -1,3 +1,3 @@
-# Shiny_Visualization_tool
+# Shiny Visualization tools
 
-[app](http://127.0.0.1:5240/)
+- [Ranking of Arrests by State](http://127.0.0.1:5240/)
